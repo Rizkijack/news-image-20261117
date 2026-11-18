@@ -1,6 +1,10 @@
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/Rizkijack/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/Rizkijack/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+
 # Tuesday 17 November 2026 — world news in one image
 
-An original editorial poster summing up the world news of Tuesday 17 November 2026.
+An original editorial poster summing up the world news of Tuesday 17 November 2026, built for the [make.fun bounty](https://make.fun/bounty/news-image-20261117).
 
 ## What it shows
 
